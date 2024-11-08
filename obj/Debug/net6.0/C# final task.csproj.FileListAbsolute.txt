@@ -1,0 +1,14 @@
+D:\Desktop\project\C# final task\bin\Debug\net6.0\C# final task.exe
+D:\Desktop\project\C# final task\bin\Debug\net6.0\C# final task.deps.json
+D:\Desktop\project\C# final task\bin\Debug\net6.0\C# final task.runtimeconfig.json
+D:\Desktop\project\C# final task\bin\Debug\net6.0\C# final task.dll
+D:\Desktop\project\C# final task\bin\Debug\net6.0\C# final task.pdb
+D:\Desktop\project\C# final task\obj\Debug\net6.0\C# final task.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\project\C# final task\obj\Debug\net6.0\C# final task.AssemblyInfoInputs.cache
+D:\Desktop\project\C# final task\obj\Debug\net6.0\C# final task.AssemblyInfo.cs
+D:\Desktop\project\C# final task\obj\Debug\net6.0\C# final task.csproj.CoreCompileInputs.cache
+D:\Desktop\project\C# final task\obj\Debug\net6.0\C# final task.dll
+D:\Desktop\project\C# final task\obj\Debug\net6.0\refint\C# final task.dll
+D:\Desktop\project\C# final task\obj\Debug\net6.0\C# final task.pdb
+D:\Desktop\project\C# final task\obj\Debug\net6.0\C# final task.genruntimeconfig.cache
+D:\Desktop\project\C# final task\obj\Debug\net6.0\ref\C# final task.dll
